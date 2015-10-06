@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Email App</string>
+    <string name="to">To: </string>
+    <string name="enter">Enter Email Address</string>
+    <string name="send">SEND</string>
+    <string name="message">Message</string>
+    <string name="action_settings">Settings</string>
+</resources>
